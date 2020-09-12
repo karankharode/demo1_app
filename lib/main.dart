@@ -56,7 +56,7 @@ class _MyAppState extends State{
         {'text':'Null','score': 10},
         {'text':'nikal','score': 5},
         {'text':'ho gaya','score': 3},
-        {'text':'chal na chutiye','score': 1},
+        {'text':'chal na bhai','score': 1},
       ]}
       
     ];
